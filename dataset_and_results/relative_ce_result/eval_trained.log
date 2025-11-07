@@ -1,0 +1,39 @@
+===== No-label Summary (bits/hidden state) =====
+JSD(full||comp)@y_full         : mean=0.0249  std=0.0232
+CE_full(y_full)                : mean=0.0685  std=0.0283
+CE_comp(y_full)                : mean=0.1434  std=0.0967
+ΔCE = CE_comp - CE_full        : mean=0.0744   std=0.0892
+length = 8
+Rate bits/hidden state (full → comp)  : 609734.9 → 11134.5
+
+===== No-label Summary (bits/hidden state) =====
+JSD(full||comp)@y_full         : mean=0.0243  std=0.0226
+CE_full(y_full)                : mean=0.0685  std=0.0283
+CE_comp(y_full)                : mean=0.1429  std=0.0986
+ΔCE = CE_comp - CE_full        : mean=0.0749   std=0.0895
+length = 16
+Rate bits/hidden state (full → comp)  : 609734.9 → 22268.9
+
+===== No-label Summary (bits/hidden state) =====
+JSD(full||comp)@y_full         : mean=0.0223  std=0.0191
+CE_full(y_full)                : mean=0.0685  std=0.0283
+CE_comp(y_full)                : mean=0.1339  std=0.0827
+ΔCE = CE_comp - CE_full        : mean=0.0654   std=0.0721
+length = 32
+Rate bits/hidden state (full → comp)  : 609734.9 → 44537.8
+
+===== No-label Summary (bits/hidden state) =====
+JSD(full||comp)@y_full         : mean=0.0110  std=0.0102
+CE_full(y_full)                : mean=0.0685  std=0.0283
+CE_comp(y_full)                : mean=0.1104  std=0.0619
+ΔCE = CE_comp - CE_full        : mean=0.0346   std=0.0508
+length = 64
+Rate bits/hidden state (full → comp)  : 609734.9 → 89075.6
+
+===== No-label Summary (bits/hidden state) =====
+JSD(full||comp)@y_full         : mean=0.0110  std=0.0102
+CE_full(y_full)                : mean=0.0685  std=0.0283
+CE_comp(y_full)                : mean=0.1001  std=0.0619
+ΔCE = CE_comp - CE_full        : mean=0.0346   std=0.0508
+length = 128
+Rate bits/hidden state (full → comp)  : 609734.9 → 178151.2
